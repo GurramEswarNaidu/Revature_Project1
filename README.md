@@ -18,13 +18,13 @@ Gaurav Mishra - Development
 
 # Roles / Responsibility :
 
-> Created data for Trainee Enquiry System and stored them in table format in MySQL.
-> Imported data from MySQL to HDFS through SQOOP.
-> Created orc tables in HIVE tables by loading tables from HDFS to hive tables.
-> Created  partitions,bucketing, views and indexes to optimize Hive query performance.
-> Ran HQL queries to filter out data from tables.
-> Ran HQL queries to perform CURD operations on tables.
-> Organized results into a powerpoint presentation.
+1. Created data for Trainee Enquiry System and stored them in table format in MySQL.
+2. Imported data from MySQL to HDFS through SQOOP.
+3. Created orc tables in HIVE tables by loading tables from HDFS to hive tables.
+4. Created  partitions,bucketing, views and indexes to optimize Hive query performance.
+5. Ran HQL queries to filter out data from tables.
+6. Ran HQL queries to perform CURD operations on tables.
+7. Organized results into a powerpoint presentation.
 
 # Environment / Technologies
 
