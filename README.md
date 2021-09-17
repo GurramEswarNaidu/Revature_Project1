@@ -10,11 +10,11 @@ We have run this project in CDH5.
 
 # Contributions :
 
-Eswar Naidu - Data Analytics
-Neha - Database Management
-Suleman - Data Collection preprocessing
-Subodh Kumar - Quality Assurance
-Gaurav Mishra - Development
+1. Eswar Naidu - Data Analytics
+2. Neha - Database Management
+3. Suleman - Data Collection preprocessing
+4. Subodh Kumar - Quality Assurance
+5. Gaurav Mishra - Development
 
 # Roles / Responsibility :
 
