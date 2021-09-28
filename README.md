@@ -1,4 +1,4 @@
-# Revature_Project1
+# HIVE Project
 # Associate Management System - AMS 
 
 # Project Description:
