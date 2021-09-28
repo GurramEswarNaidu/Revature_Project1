@@ -8,35 +8,35 @@ The main aim of this project is to manage the database of an educational institu
 
 # Technologies :
 
-1)Cloudera5
-2)Hadoop
-3)Hue
-4)MySQL
-5)Sqoop
-6)Github
-7)Microsoft Excel
-8)Microsoft Powerpoint
+1)Cloudera5 <br>
+2)Hadoop <br>
+3)Hue <br>
+4)MySQL <br>
+5)Sqoop <br>
+6)Github <br>
+7)Microsoft Excel <br>
+8)Microsoft Powerpoint <br>
 
 
 # Features :
 
-1.Availability of multiple courses, Discounts on each course.
-2.Availability of demo sessions on weekdays as well as weekends.
-3.Rescheduling of demo session if missed.
-4.Multiple payment modes.
-5.Installments availability on any types of payment mode.
-6.Availability of both Online and Offline mode of training.
-7.Updation can be performed on master table.
+1.Availability of multiple courses, Discounts on each course. <br>
+2.Availability of demo sessions on weekdays as well as weekends. <br>
+3.Rescheduling of demo session if missed. <br>
+4.Multiple payment modes. <br>
+5.Installments availability on any types of payment mode. <br>
+6.Availability of both Online and Offline mode of training. <br>
+7.Updation can be performed on master table. <br>
 
 # Tables :
 
-1) Master and Payment Tables in MySQL
-2) Enquiry Table
-3) Demo Schedule - Weekday_Demo and Weekend_Demo tables
-4) Demo_Attended and Demo_Missed Tables
-5) Course Enroll Table
-6) Not_Joined Table 
-7) Payment Table
+1) Master and Payment Tables in MySQL <br>
+2) Enquiry Table <br>
+3) Demo Schedule - Weekday_Demo and Weekend_Demo tables <br>
+4) Demo_Attended and Demo_Missed Tables <br>
+5) Course Enroll Table <br>
+6) Not_Joined Table <br> 
+7) Payment Table <br>
 
 # Enquiry Table
 Enquiry Table is an orc table that is created by loading the data of master table in it. It consists of the entire information of the assosiates who are enrolled for the institute like Name, age, Email, Mobile_no , Course, Fee, Discount, Demo_Date, status_final 
@@ -61,8 +61,8 @@ This table is created from table4.txt data that consists of the payment details 
 
 # Contributions :
 
-1. Eswar Naidu - Data Analytics
-2. Neha - Database Management
-3. Suleman - Data Collection preprocessing
-4. Subodh Kumar - Quality Assurance
-5. Gaurav Mishra - Development
+1. Eswar Naidu - Data Analytics <br>
+2. Neha - Database Management <br>
+3. Suleman - Data Collection preprocessing <br>
+4. Subodh Kumar - Quality Assurance <br>
+5. Gaurav Mishra - Development <br>
