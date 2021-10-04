@@ -77,5 +77,4 @@ Manish,25,manish@gmail.com,6387845040,Big Data,40000,10,WD:SUN:11AM,EWE
 Bholu,21,bholu@gmail.com,8382813951,Cloud Computing,25000,12,WD:WED:10AM,DND
 Niku,20,niku@gmail.com,6342548723,Full Stack,35000,17,WD:FRI:10AM,DND
 Bunty,23,bunty@gmail.com,8784534231,Full Stack,35000,15,WD:FRI:11AM,DND
-Ekta,21,ekta@gmail.com,9842356765,Big Data,40000,12,WD:SUN:10AM
-,DND
+Ekta,21,ekta@gmail.com,9842356765,Big Data,40000,12,WD:SUN:10AM,DND
