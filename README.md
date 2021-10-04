@@ -59,10 +59,10 @@ This table holds the details of the associates who are not enrolled to course af
 # Payment Table
 This table is created from table4.txt data that consists of the payment details of the associates who are enrolled for the courses consisting the payment details of the associates like total fee, fee paid, mode (any installment), mode of payment, number of installment, end date for payment
 
-# Contributions :
+# Team Members :
 
 1. Eswar Naidu - Data Analytics <br>
 2. Neha - Database Management <br>
 3. Suleman - Data Collection preprocessing <br>
 4. Subodh Kumar - Quality Assurance <br>
-5. Gaurav Mishra - Development <br>
+
